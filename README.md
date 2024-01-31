@@ -3,7 +3,7 @@
 This software uses data from your Steam profile to generate your game title and status, this can be useful as many games on Steam provide a detailed status of the game and it's current activities. The goal of this project is to create a universal RPC that will display on your Discord profile as "Playing **Steam Game**", followed by "Game Title", "Current Activity", as well as displaying the cover art for the game you're currently playing (Similar to how the Nintendo Switch RPC works). I feel this is a good way to display the game you're currently playing, and what you're doing (proven conversation starter).
 
 ## Notice: As of now this application is not working
-- If you would like to contribute or build your own working build feel free to use my code
+- I am actively working on the code for this app, so please stay tuned
 
 ### Getting Started (When the project is fully functional)
 
